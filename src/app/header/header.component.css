@@ -1,0 +1,11 @@
+li {
+    padding: 10px 20px;
+}
+
+.active {
+    background-color: #e7e7d1;
+}
+
+a {
+    text-decoration: none;
+}
